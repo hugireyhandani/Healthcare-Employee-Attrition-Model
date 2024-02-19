@@ -1,21 +1,34 @@
-# Healthcare-Employee-Attrition-Model
-Overview
-This project, conducted for the MET CS 677 Data Science with Python course at Boston University by Hugi Reyhandani Munggaran, focuses on predicting employee attrition within the healthcare industry in the United States. It leverages data science techniques to address the high turnover rates in this sector, using the IBM Watson dataset available on Kaggle.
+# Healthcare Employee Attrition Model
 
-Goals
-Predict employee attrition among healthcare workers.
-Uncover patterns and factors contributing to attrition.
-Assist healthcare organizations in implementing effective retention strategies.
-Methodology
-Data Cleaning and Preprocessing
-Removal of duplicates, missing values, and irrelevant features.
-Conversion of categorical variables for analysis.
-Standardization of data to remove biases.
-Data Modeling
-Various predictive models (Logistic Regression, Decision Trees, SVM, etc.) were developed and trained.
-Models were compared based on accuracy and other metrics to determine the most effective.
-Model Comparison
-Logistic Regression emerged as the most effective model with high accuracy and F1 score.
-Emphasis on a model's ability to balance precision and recall in imbalanced datasets.
-Conclusion
-The project successfully used machine learning to predict attrition among healthcare workers, highlighting Logistic Regression as a notably effective model.
+## Overview
+This project, part of the MET CS 677 Data Science with Python course at Boston University, is by Hugi Reyhandani Munggaran. It aims to predict employee attrition in the U.S. healthcare sector using the IBM Watson dataset from Kaggle.
+
+## Goals
+- Predict healthcare worker attrition.
+- Identify key factors contributing to turnover.
+- Aid in developing retention strategies.
+
+## Methodology
+
+### Data Cleaning and Preprocessing
+- Removed duplicates, missing values, and irrelevant features.
+- Converted categorical variables for analysis.
+- Standardized data for unbiased analysis.
+
+### Data Modeling
+- Developed and trained models including Logistic Regression, Decision Trees, SVM, etc.
+- Evaluated models based on accuracy and other metrics.
+
+### Model Comparison
+- Identified Logistic Regression as the most effective model with high accuracy and F1 score.
+- Focused on balancing precision and recall in imbalanced datasets.
+
+## Conclusion
+The project successfully predicts attrition in healthcare workers, with Logistic Regression as a key model.
+
+## Author
+- Hugi Reyhandani Munggaran
+
+## Acknowledgements
+- MET CS 677 Data Science with Python course, Boston University
+- IBM Watson dataset, Kaggle
